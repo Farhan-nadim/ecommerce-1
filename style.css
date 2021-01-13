@@ -1,0 +1,21 @@
+.top-header{
+    background-color: black;
+    margin-bottom: 30px;
+}
+nav{
+    position: relative;
+   top:20px;
+   background-color: rgb(255, 166, 0);
+   border-radius: 5px;
+   border: 2px solid black;
+   z-index: 1;
+}
+img{
+    width: 100%;
+}
+.amazon-logo{
+    width: 60px;
+}
+.panda-second-section{
+    margin-top: 60px;
+}
